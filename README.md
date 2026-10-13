@@ -2,6 +2,8 @@
 
 We are happy to announce that this project is accepted by EMNLP 2026! This repository contains the official implementation for the paper. 
 
+See the [project overview](https://new-ground-ai.github.io/projects/care/) and explore related research from [New Ground AI](https://new-ground-ai.github.io/).
+
 This package contains the CARE workflow and the utilities needed to construct and evaluate MIMIC-DOS from a locally licensed MIMIC-IV v3.1 source.
 
 
